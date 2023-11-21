@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rush
+* source:	https://sketchfab.com/3d-models/rush-ccc2c65249cd4b1395884caf2a40d0e9
+* author:	beluga (https://sketchfab.com/survival_mode)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rush" (https://sketchfab.com/3d-models/rush-ccc2c65249cd4b1395884caf2a40d0e9) by beluga (https://sketchfab.com/survival_mode) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
